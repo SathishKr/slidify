@@ -16,6 +16,7 @@ knit        : slidify::knit2slides
 1. Edit YAML front matter
 2. Write using R Markdown
 3. Use an empty line followed by three dashes to separate slides!
+4. New Point Added
 
 --- .class #id 
 
