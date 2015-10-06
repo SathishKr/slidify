@@ -1,14 +1,18 @@
 ---
-title       : 
-subtitle    : 
-author      : 
-job         : 
+title       : Slidify Demo
+subtitle    : HTML5 Slides from R Markdown
+author      : Sathish Kumar Krishnan
+job         : Principal Consultant
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+github:
+  user: SathishKr
+  repo: slidify
+  
 ---
 
 ## Read-And-Delete
@@ -22,6 +26,8 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
+Animated List
 
-
-
+> 1. Point 1
+> 2. Point 2
+> 3. Point 3
