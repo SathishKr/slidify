@@ -12,7 +12,6 @@ knit        : slidify::knit2slides
 github:
   user: SathishKr
   repo: slidify
-  
 ---
 
 ## Read-And-Delete
@@ -31,3 +30,4 @@ Animated List
 > 1. Point 1
 > 2. Point 2
 > 3. Point 3
+> 4. Point 4
